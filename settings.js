@@ -37,20 +37,20 @@ var _0x2fd240=_0x5d66;function _0x5d66(_0x2ed051,_0xea9c3d){var _0x5c160d=_0x5c1
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = [#']
 global.sp = ''
 
 //messages
 global.mess = {
     success: 'Here you go!',
     admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'Je dois être admin baka🙄',
     premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
+    owner: 'Seul moi le king en a le droit',
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'In process...',
+    wait: 'ça arrive...',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
